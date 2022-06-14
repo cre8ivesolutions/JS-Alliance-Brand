@@ -11,6 +11,7 @@ function addCustomerName() {
 
     let introHeader = document.getElementById('introheader')
     introHeader.textContent = customerName;
+    
 };
 
 function toggleColors() {
